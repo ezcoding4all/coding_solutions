@@ -5,6 +5,6 @@ Solutions for coding interview problems as well as interviewbit problems.
 
 Check folders for solutions
 
-* [Week 1: Arrays and Strings](./week_1)
+* [Week 1: Arrays and Strings](./codepath/week_1)
 
 
