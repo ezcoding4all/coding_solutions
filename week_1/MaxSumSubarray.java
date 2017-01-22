@@ -17,9 +17,9 @@ import java.util.List;
  *
  */
 
-class MaxSumSubArray {
+class MaxSumSubarray {
   public static void main(String[] args) {
-    MaxSumSubArray sub = new MaxSumSubArray();
+    MaxSumSubarray sub = new MaxSumSubarray();
 
     List<Integer> input = Arrays.asList(-2, 1, -3, 4, -1, 2, 1, -5, 4);
 
