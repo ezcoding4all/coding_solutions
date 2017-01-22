@@ -1,3 +1,3 @@
 # CodePath Solutions for week 1 assignment
 
-* Arrays - 
+* Arrays - Max Sum Contiguous Subarray [MaxSumSubArray.java] (MaxSumSubArray.java)
