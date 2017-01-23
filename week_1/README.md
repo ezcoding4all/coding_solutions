@@ -10,4 +10,4 @@
 ## Strings
 
 * Strings - Palindrome String - [PalindromeString.java] (PalindromeString.java) - https://www.interviewbit.com/problems/palindrome-string/
-* Strings - 
+* Strings - Length of Last Word - [LengthOfLastWord.java] (LengthOfLastWord.java) - https://www.interviewbit.com/problems/length-of-last-word/
