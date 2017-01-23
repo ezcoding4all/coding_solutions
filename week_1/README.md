@@ -1,4 +1,5 @@
 # CodePath Solutions for week 1 assignment
 
-* Arrays - Max Sum Contiguous Subarray - [MaxSumSubarray.java] (MaxSumSubarray.java)
-* Arrays - Max Non Negative SubArray - [MaxSumSubArrayNonNegative.java] (MaxSumSubArrayNonNegative.java)
+* Arrays - Max Sum Contiguous Subarray - [MaxSumSubarray.java] (MaxSumSubarray.java) - https://www.interviewbit.com/problems/max-sum-contiguous-subarray/
+* Arrays - Max Non Negative SubArray - [MaxSumSubArrayNonNegative.java] (MaxSumSubArrayNonNegative.java) - https://www.interviewbit.com/problems/max-non-negative-subarray/
+* Arrays - First Missing Integer - [FirstMissingPositiveInteger.java] (FirstMissingPositiveInteger.java) - https://www.interviewbit.com/problems/first-missing-integer/
