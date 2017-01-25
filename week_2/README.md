@@ -5,6 +5,9 @@
 ### Hashing
 
 * Hashing - Anagrams - [Anagrams.java] (./hashing/Anagrams.java) - https://www.interviewbit.com/problems/anagrams/
+* Hashing - 2 Sum - [TwoSum.java] (./hashing/TwoSum.java) - https://www.interviewbit.com/problems/2-sum/
 
-### Strings
+### Linked Lists
 
+* Linked Lists - [RemoveDupSortedList.java] (./linked_lists/RemoveDupSortedList.java) - https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list/
+* Linked Lists - 
