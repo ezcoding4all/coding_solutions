@@ -13,6 +13,6 @@ Check folders for solutions
 
 Here's a walkthrough of completed *week 1 assignment* & *week 2 pre-work*:
 
-<img src='./week1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./interviewbit-week1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
