@@ -14,3 +14,12 @@
 * Linked Lists - [ListCycle.java] (./linked_lists/ListCycle.java) - https://www.interviewbit.com/problems/list-cycle/
 * Linked Lists - Add Two Numbers - [AddTwoNumbers.java] (./linked_lists/AddTwoNumbers.java) - https://www.interviewbit.com/problems/add-two-numbers-as-lists/
 * Linked Lists - Reverse Link List II - [ReverseLinkList2.java] (./linked_lists/ReverseLinkList2.java) - https://www.interviewbit.com/problems/reverse-link-list-ii/
+
+
+## Video Walkthrough 
+
+Here's a walkthrough of completed *week 2 assignment*:
+
+<img src='./interviewbit-week2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).

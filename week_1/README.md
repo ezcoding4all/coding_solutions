@@ -13,3 +13,11 @@
 * Strings - Length of Last Word - [LengthOfLastWord.java] (LengthOfLastWord.java) - https://www.interviewbit.com/problems/length-of-last-word/
 * Strings - Compare two version numbers - [CompareVersionNumbers.java] (CompareVersionNumbers.java) - https://www.interviewbit.com/problems/compare-version-numbers/
 * Strings - Add Binary Strings - [AddBinaryStrings.java] (AddBinaryStrings.java) - https://www.interviewbit.com/problems/add-binary-strings/
+
+## Video Walkthrough 
+
+Here's a walkthrough of completed *week 1 assignment* & *week 2 pre-work*:
+
+<img src='./interviewbit-week1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
