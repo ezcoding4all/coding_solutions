@@ -8,8 +8,8 @@
 
 ##  Binary Search
 
-* Binary Search - 
-
+* Binary Search - Search for a Range - [SearchRange.java] (./binary_search/SearchRange.java) - https://www.interviewbit.com/problems/search-for-a-range/
+* Binary Search - Square Root Of Integer - [SquareRoot.java] (./binary_search/SquareRoot.java) - https://www.interviewbit.com/problems/square-root-of-integer/
 
 
 ## Video Walkthrough 
