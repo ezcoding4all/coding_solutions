@@ -13,7 +13,7 @@ public class InorderTraversal {
     if(a == null){ return null; }
 
 
-    Stack<TreeNode> stack = new Stack<TreeNode>();
+    Stack<TreeNode> stack = new Stack<>();
 
     while (true) {
       if (a != null) {
