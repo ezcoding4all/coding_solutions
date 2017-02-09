@@ -13,7 +13,7 @@
 * Binary Search - Search for a Range - [SearchRange.java] (./binary_search/SearchRange.java) - https://www.interviewbit.com/problems/search-for-a-range/
 * Binary Search - Square Root Of Integer - [SquareRoot.java] (./binary_search/SquareRoot.java) - https://www.interviewbit.com/problems/square-root-of-integer/
 * Binary Search - Rotated Sorted Array Search - [RotatedSortedArraySearch.java] (./binary_search/RotatedSortedArraySearch.java) - https://www.interviewbit.com/problems/rotated-sorted-array-search/
-
+* Binary Search - Power Function - [PowerFunction.java] (./binary_search/PowerFunction.java) - https://www.interviewbit.com/problems/implement-power-function/
 
 ## Video Walkthrough 
 
