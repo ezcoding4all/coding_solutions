@@ -10,3 +10,5 @@ Check folders for solutions
 * [Week 2: Hashing and Linked Lists](./week_2)
 
 * [Week 3: Trees, Binary Trees, Searches, Heaps](./week_3)
+
+* [Week 4: Recursion and Bit Manipulation](./week_4)
